@@ -38,8 +38,8 @@ This system leverages a massive technology stack to achieve absolute real-time v
 * **Java**: Distributed data processing and object persistence.
 
 ## **📂 Project Structure**
-
-/omni\_app/  
+```
+Omni System/  
 ├── frontend/  
 │   └── index.html                 \# Unified Frontend (Vue/Alpine/HTMX/Tailwind)  
 └── backend/  
@@ -58,7 +58,7 @@ This system leverages a massive technology stack to achieve absolute real-time v
         │       ├── security.cpp   \# C++ security logic  
         │       ├── DataProcessor.java  
         │       └── monitor.py
-
+```
 ## **⚙️ Setup & Deployment**
 
 ### **Backend (Render)**
